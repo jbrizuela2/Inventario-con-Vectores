@@ -1,0 +1,1 @@
+# Inventario-con-listas-enlazadas-simples
